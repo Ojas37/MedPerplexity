@@ -159,12 +159,6 @@ httpx==0.28.0
 python-dotenv==1.0.1
 ```
 
-## 🔐 Authentication
-
-Currently uses temporary authentication bypass with credentials:
-- **Username**: `doctor123`
-- **Password**: Any password
-
 ⚠️ **Note**: This is for development purposes. Production deployment should implement proper bcrypt authentication.
 
 ## 🎯 Usage Guide
